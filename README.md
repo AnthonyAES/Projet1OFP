@@ -5,7 +5,9 @@
 
 
 <h3>Exercice:</h3>
--Réaliser un site sur les balises HTML pour se familiariser avec le code HTML.<br/>
--Une balise par page.<br/>
--Chaque page doit contenir: une description, un tableau des attributs et un exemple.<br/>
--Réliser un CSS simpliste pour se familiariser avec.<br/>
+<ol>
+  <li>Réaliser un site sur les balises HTML pour se familiariser avec le code HTML.</li>
+  <li>Une balise par page.</li>
+  <li>Chaque page doit contenir: une description, un tableau des attributs et un exemple.</li>
+  <li>Réliser un CSS simpliste pour se familiariser avec.</li>
+</ol>
