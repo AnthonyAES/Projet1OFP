@@ -15,5 +15,5 @@
       <li>un exemple</li>
       </ul>
   </li>
-  <li>Réliser un CSS simpliste pour se familiariser avec.</li>
+  <li>Réaliser un CSS simpliste pour se familiariser avec.</li>
 </ol>
