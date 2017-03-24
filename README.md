@@ -17,3 +17,7 @@
   </li>
   <li>Réaliser un CSS simpliste pour se familiariser avec.</li>
 </ol>
+
+<p>Le site est responsive.</p>
+
+<p>Projet réalisé par: Ponçon Elodie, Petrakova Natalia, Sautebin Anthony.<p>
