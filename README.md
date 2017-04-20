@@ -23,4 +23,4 @@
 <p>Projet réalisé par: Ponçon Elodie, Petrakova Natalia, Sautebin Anthony.<p>
 
 <h4>Résultat:</h4>
-<a href="https://anthonyaes.github.io/projectNCAM/" target="_blank">Github Pages</a>
+<a href="https://anthonyaes.github.io/Projet1OFP/" target="_blank">Github Pages</a>
